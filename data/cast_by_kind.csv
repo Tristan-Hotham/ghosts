@@ -1,0 +1,7 @@
+group,label,n,grey_lady,white_lady,green_lady,other_lady,monk,nun,headless,drummer,dog,soldier,child,poltergeist,coach,royal
+castle,Castles,67,3,7,6,3,2,0,2,2,3,4,5,0,0,3
+house,Houses and palaces,58,5,5,1,2,1,6,1,0,2,2,5,5,1,3
+inn,Inns and hotels,38,0,0,0,0,1,0,0,0,0,0,1,1,0,1
+church,Churches and abbeys,9,0,1,0,0,5,2,2,0,0,0,1,0,0,0
+other,"Theatres, gaols, RAF and other buildings",26,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+outside,"Roads, woods, hills and villages",39,0,0,0,2,3,1,1,0,2,1,3,1,2,0

@@ -1,0 +1,1459 @@
+{
+ "n_places": 260,
+ "n_excluded": 30,
+ "by_country": {
+  "England": 146,
+  "Scotland": 85,
+  "Ireland": 17,
+  "Wales": 10,
+  "Northern Ireland": 2
+ },
+ "n_placed": 256,
+ "n_unplaced": 4,
+ "geo_methods": {
+  "Own Wikipedia article": 189,
+  "Named town, village or feature": 35,
+  "Wikidata item of the same place": 21,
+  "Coordinates of the broader article the title redirects to": 6,
+  "Not placed": 4,
+  "Sites and Monuments Record, Ireland": 3,
+  "Midpoint of the two places the list names": 1,
+  "Wikidata church of the same name": 1
+ },
+ "geo_precision": {
+  "building": 188,
+  "settlement": 44,
+  "site": 20,
+  "stretch": 4,
+  "not placed": 4
+ },
+ "n_from_categories": 203,
+ "n_from_lists_only": 57,
+ "n_wiltshire_list": 7,
+ "n_with_ghost_text": 237,
+ "n_no_ghost_text": 23,
+ "n_dated": 88,
+ "dated_sources": {
+  "wikidata": 45,
+  "oldest": 0,
+  "infobox": 43
+ },
+ "kinds": {
+  "castle": 76,
+  "house": 60,
+  "inn": 41,
+  "outdoor": 16,
+  "road": 16,
+  "settlement": 11,
+  "church": 10,
+  "military": 8,
+  "gaol": 7,
+  "theatre": 6,
+  "other_building": 5,
+  "civic": 4
+ },
+ "kind_labels": {
+  "castle": "Castle or tower",
+  "house": "House, hall or palace",
+  "inn": "Inn, pub or hotel",
+  "church": "Church, abbey or chapel",
+  "theatre": "Theatre",
+  "gaol": "Gaol or court",
+  "military": "RAF base or military site",
+  "civic": "Guildhall, school or museum",
+  "other_building": "Other building",
+  "road": "Road, street, bridge or tunnel",
+  "outdoor": "Wood, hill, cave or stone",
+  "settlement": "Whole village or town"
+ },
+ "n_buildings": 217,
+ "n_not_buildings": 43,
+ "listed_status": {
+  "not top-listed": 159,
+  "Grade I": 42,
+  "Category A": 37,
+  "Grade II*": 22
+ },
+ "n_haunted_gb_buildings": 199,
+ "n_listed_buildings": 33720,
+ "n_listed_all": 40409,
+ "listed_by_country": {
+  "England": 31482,
+  "Scotland": 6381,
+  "Wales": 2546
+ },
+ "listed_buildings_by_country": {
+  "England": 26908,
+  "Scotland": 4616,
+  "Wales": 2196
+ },
+ "mix": {
+  "castle": {
+   "label": "Castle or tower",
+   "haunted": 67,
+   "listed": 1255,
+   "share_haunted": 0.33668341708542715,
+   "share_listed": 0.03721826809015421,
+   "ratio": 9.04618711085307,
+   "p": 1.217653531042486e-44,
+   "per_1000_listed": 53.386454183266935
+  },
+  "house": {
+   "label": "House, hall or palace",
+   "haunted": 56,
+   "listed": 13168,
+   "share_haunted": 0.2814070351758794,
+   "share_listed": 0.3905100830367734,
+   "ratio": 0.7206140056296061,
+   "p": 0.0017106219272382713,
+   "per_1000_listed": 4.25273390036452
+  },
+  "inn": {
+   "label": "Inn, pub or hotel",
+   "haunted": 40,
+   "listed": 794,
+   "share_haunted": 0.20100502512562815,
+   "share_listed": 0.02354685646500593,
+   "ratio": 8.536384694252117,
+   "p": 3.0851234688284656e-25,
+   "per_1000_listed": 50.377833753148614
+  },
+  "church": {
+   "label": "Church, abbey or chapel",
+   "haunted": 8,
+   "listed": 11856,
+   "share_haunted": 0.04020100502512563,
+   "share_listed": 0.3516014234875445,
+   "ratio": 0.11433686651882896,
+   "p": 2.8899003361476346e-26,
+   "per_1000_listed": 0.6747638326585695
+  },
+  "theatre": {
+   "label": "Theatre",
+   "haunted": 6,
+   "listed": 122,
+   "share_haunted": 0.03015075376884422,
+   "share_listed": 0.0036180308422301306,
+   "ratio": 8.333470631847764,
+   "p": 9.883733194673696e-05,
+   "per_1000_listed": 49.18032786885246
+  },
+  "gaol": {
+   "label": "Gaol or court",
+   "haunted": 5,
+   "listed": 92,
+   "share_haunted": 0.02512562814070352,
+   "share_listed": 0.0027283511269276394,
+   "ratio": 9.209088922875246,
+   "p": 0.00024102336821316537,
+   "per_1000_listed": 54.34782608695652
+  },
+  "military": {
+   "label": "RAF base or military site",
+   "haunted": 8,
+   "listed": 103,
+   "share_haunted": 0.04020100502512563,
+   "share_listed": 0.003054567022538553,
+   "ratio": 13.160950382982875,
+   "p": 2.389088915309691e-07,
+   "per_1000_listed": 77.66990291262135
+  },
+  "civic": {
+   "label": "Guildhall, school or museum",
+   "haunted": 4,
+   "listed": 1279,
+   "share_haunted": 0.020100502512562814,
+   "share_listed": 0.0379300118623962,
+   "ratio": 0.5299366260544317,
+   "p": 0.26151016206288286,
+   "per_1000_listed": 3.127443315089914
+  },
+  "other_building": {
+   "label": "Other building",
+   "haunted": 5,
+   "listed": 5051,
+   "share_haunted": 0.02512562814070352,
+   "share_listed": 0.1497924080664294,
+   "ratio": 0.1677363256591809,
+   "p": 7.168622680229905e-09,
+   "per_1000_listed": 0.9899029895070283
+  }
+ },
+ "mix_by_country": {
+  "England": {
+   "castle": {
+    "haunted": 11,
+    "listed": 706,
+    "share_haunted": 0.1,
+    "share_listed": 0.026237550170952875
+   },
+   "house": {
+    "haunted": 36,
+    "listed": 10164,
+    "share_haunted": 0.32727272727272727,
+    "share_listed": 0.3777315296566077
+   },
+   "inn": {
+    "haunted": 35,
+    "listed": 679,
+    "share_haunted": 0.3181818181818182,
+    "share_listed": 0.025234131113423517
+   },
+   "church": {
+    "haunted": 8,
+    "listed": 10619,
+    "share_haunted": 0.07272727272727272,
+    "share_listed": 0.3946409989594173
+   },
+   "theatre": {
+    "haunted": 2,
+    "listed": 98,
+    "share_haunted": 0.01818181818181818,
+    "share_listed": 0.0036420395421436005
+   },
+   "gaol": {
+    "haunted": 3,
+    "listed": 51,
+    "share_haunted": 0.02727272727272727,
+    "share_listed": 0.0018953471086665676
+   },
+   "military": {
+    "haunted": 7,
+    "listed": 78,
+    "share_haunted": 0.06363636363636363,
+    "share_listed": 0.002898766166195927
+   },
+   "civic": {
+    "haunted": 4,
+    "listed": 1043,
+    "share_haunted": 0.03636363636363636,
+    "share_listed": 0.038761706555671176
+   },
+   "other_building": {
+    "haunted": 4,
+    "listed": 3470,
+    "share_haunted": 0.03636363636363636,
+    "share_listed": 0.12895793072692135
+   },
+   "n_haunted": 110,
+   "n_listed": 26908
+  },
+  "Scotland": {
+   "castle": {
+    "haunted": 56,
+    "listed": 392,
+    "share_haunted": 0.7088607594936709,
+    "share_listed": 0.08492201039861352
+   },
+   "house": {
+    "haunted": 14,
+    "listed": 2319,
+    "share_haunted": 0.17721518987341772,
+    "share_listed": 0.5023830155979203
+   },
+   "inn": {
+    "haunted": 2,
+    "listed": 70,
+    "share_haunted": 0.02531645569620253,
+    "share_listed": 0.015164644714038129
+   },
+   "church": {
+    "haunted": 0,
+    "listed": 516,
+    "share_haunted": 0.0,
+    "share_listed": 0.11178509532062392
+   },
+   "theatre": {
+    "haunted": 4,
+    "listed": 20,
+    "share_haunted": 0.05063291139240506,
+    "share_listed": 0.004332755632582322
+   },
+   "gaol": {
+    "haunted": 2,
+    "listed": 36,
+    "share_haunted": 0.02531645569620253,
+    "share_listed": 0.00779896013864818
+   },
+   "military": {
+    "haunted": 1,
+    "listed": 16,
+    "share_haunted": 0.012658227848101266,
+    "share_listed": 0.0034662045060658577
+   },
+   "civic": {
+    "haunted": 0,
+    "listed": 178,
+    "share_haunted": 0.0,
+    "share_listed": 0.03856152512998267
+   },
+   "other_building": {
+    "haunted": 0,
+    "listed": 1069,
+    "share_haunted": 0.0,
+    "share_listed": 0.23158578856152512
+   },
+   "n_haunted": 79,
+   "n_listed": 4616
+  },
+  "Wales": {
+   "castle": {
+    "haunted": 0,
+    "listed": 157,
+    "share_haunted": 0.0,
+    "share_listed": 0.0714936247723133
+   },
+   "house": {
+    "haunted": 6,
+    "listed": 685,
+    "share_haunted": 0.6,
+    "share_listed": 0.31193078324225865
+   },
+   "inn": {
+    "haunted": 3,
+    "listed": 45,
+    "share_haunted": 0.3,
+    "share_listed": 0.020491803278688523
+   },
+   "church": {
+    "haunted": 0,
+    "listed": 721,
+    "share_haunted": 0.0,
+    "share_listed": 0.3283242258652095
+   },
+   "theatre": {
+    "haunted": 0,
+    "listed": 4,
+    "share_haunted": 0.0,
+    "share_listed": 0.0018214936247723133
+   },
+   "gaol": {
+    "haunted": 0,
+    "listed": 5,
+    "share_haunted": 0.0,
+    "share_listed": 0.002276867030965392
+   },
+   "military": {
+    "haunted": 0,
+    "listed": 9,
+    "share_haunted": 0.0,
+    "share_listed": 0.004098360655737705
+   },
+   "civic": {
+    "haunted": 0,
+    "listed": 58,
+    "share_haunted": 0.0,
+    "share_listed": 0.026411657559198543
+   },
+   "other_building": {
+    "haunted": 1,
+    "listed": 512,
+    "share_haunted": 0.1,
+    "share_listed": 0.2331511839708561
+   },
+   "n_haunted": 10,
+   "n_listed": 2196
+  }
+ },
+ "listed_own": {
+  "n": 199,
+  "is_top_listed": 98,
+  "share": 0.49246231155778897
+ },
+ "listed_near": {
+  "n": 172,
+  "within_100m": 122,
+  "share_100": 0.7093023255813954,
+  "within_50m": 111,
+  "share_50": 0.6453488372093024
+ },
+ "inns_near_listed": {
+  "n": 30,
+  "within_50m": 18,
+  "share": 0.6,
+  "pubs_share": 0.07142857142857142,
+  "n_pubs": 37982,
+  "p": 8.748763117212076e-14
+ },
+ "inns_listed_own": {
+  "n": 40,
+  "top_listed": 14
+ },
+ "n_listed_dated": 6982,
+ "n_listed_buildings_dated_share": 0.20705812574139976,
+ "n_haunted_buildings_dated": 85,
+ "age": {
+  "castle": {
+   "label": "Castle or tower",
+   "n_haunted": 44,
+   "n_listed": 233,
+   "median_haunted": 1409.5,
+   "median_listed": 1350.0,
+   "pre1600_haunted": 0.7954545454545454,
+   "pre1600_listed": 0.7553648068669528,
+   "p": 0.48856849592102836
+  },
+  "house": {
+   "label": "House, hall or palace",
+   "n_haunted": 20,
+   "n_listed": 721,
+   "median_haunted": 1677.5,
+   "median_listed": 1757.0,
+   "pre1600_haunted": 0.35,
+   "pre1600_listed": 0.1636615811373093,
+   "p": 0.02149329517198717
+  },
+  "inn": {
+   "label": "Inn, pub or hotel",
+   "n_haunted": 6,
+   "n_listed": 61,
+   "median_haunted": 1493.5,
+   "median_listed": 1780.0,
+   "pre1600_haunted": 0.8333333333333334,
+   "pre1600_listed": 0.16393442622950818,
+   "p": 0.01347520672563358
+  },
+  "church": {
+   "label": "Church, abbey or chapel",
+   "n_haunted": 7,
+   "n_listed": 5248,
+   "median_haunted": 1101.0,
+   "median_listed": 1250.0,
+   "pre1600_haunted": 1.0,
+   "pre1600_listed": 0.8431783536585366,
+   "p": 0.01365698655023114
+  }
+ },
+ "age_percentile": {
+  "n": 83,
+  "median": 0.44635193133047213,
+  "lo": 0.3261802575107296,
+  "hi": 0.5107296137339056,
+  "share_older_than_typical": 0.5662650602409639,
+  "p_sign": 0.272268945972048
+ },
+ "age_percentile_wikidata_only": {
+  "n": 42,
+  "median": 0.38337234165510864,
+  "share_older_than_typical": 0.5952380952380952
+ },
+ "median_year_haunted_buildings": 1508.0,
+ "median_year_listed_buildings": 1330.0,
+ "haunted_pre1600": 0.6470588235294118,
+ "listed_pre1600": 0.6876253222572328,
+ "haunted_after1800": 11,
+ "newest_haunted": [
+  {
+   "name": "Eltham Palace",
+   "year": 1933,
+   "kind": "house"
+  },
+  {
+   "name": "Edinburgh Playhouse",
+   "year": 1929,
+   "kind": "theatre"
+  },
+  {
+   "name": "Carbisdale Castle",
+   "year": 1905,
+   "kind": "castle"
+  },
+  {
+   "name": "Hill House, Helensburgh",
+   "year": 1902,
+   "kind": "house"
+  },
+  {
+   "name": "The Scotsman Hotel",
+   "year": 1899,
+   "kind": "inn"
+  },
+  {
+   "name": "Ducker & Son",
+   "year": 1898,
+   "kind": "other_building"
+  }
+ ],
+ "oldest_haunted": [
+  {
+   "name": "The Old Ferry Boat Inn",
+   "year": 560,
+   "kind": "inn"
+  },
+  {
+   "name": "Malmesbury Abbey",
+   "year": 601,
+   "kind": "church"
+  },
+  {
+   "name": "Goodrich Castle",
+   "year": 1001,
+   "kind": "castle"
+  },
+  {
+   "name": "Borley Church",
+   "year": 1050,
+   "kind": "church"
+  },
+  {
+   "name": "Tower of London",
+   "year": 1066,
+   "kind": "castle"
+  },
+  {
+   "name": "Tamworth Castle",
+   "year": 1070,
+   "kind": "castle"
+  }
+ ],
+ "castle_age": {
+  "n_haunted": 44,
+  "n_wikidata": 319,
+  "median_haunted": 1409.5,
+  "median_wikidata": 1295.0,
+  "p": 0.030918821960973758
+ },
+ "year_bins": [
+  1000,
+  1050,
+  1100,
+  1150,
+  1200,
+  1250,
+  1300,
+  1350,
+  1400,
+  1450,
+  1500,
+  1550,
+  1600,
+  1650,
+  1700,
+  1750,
+  1800,
+  1850,
+  1900,
+  1950,
+  2000
+ ],
+ "year_hist": {
+  "castle": {
+   "haunted": [
+    1,
+    3,
+    2,
+    1,
+    4,
+    3,
+    3,
+    5,
+    1,
+    4,
+    1,
+    7,
+    1,
+    2,
+    1,
+    3,
+    1,
+    0,
+    1,
+    0
+   ],
+   "listed": [
+    4,
+    27,
+    20,
+    5,
+    22,
+    24,
+    13,
+    19,
+    9,
+    8,
+    18,
+    7,
+    10,
+    3,
+    2,
+    6,
+    14,
+    19,
+    2,
+    1
+   ]
+  },
+  "house": {
+   "haunted": [
+    0,
+    0,
+    0,
+    0,
+    1,
+    1,
+    0,
+    0,
+    0,
+    1,
+    3,
+    1,
+    0,
+    5,
+    3,
+    2,
+    0,
+    1,
+    2,
+    0
+   ],
+   "listed": [
+    2,
+    6,
+    19,
+    2,
+    8,
+    6,
+    10,
+    5,
+    13,
+    8,
+    19,
+    20,
+    60,
+    42,
+    122,
+    95,
+    126,
+    82,
+    49,
+    27
+   ]
+  },
+  "inn": {
+   "haunted": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    0,
+    0
+   ],
+   "listed": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    2,
+    1,
+    6,
+    1,
+    5,
+    4,
+    8,
+    5,
+    8,
+    8,
+    7,
+    6
+   ]
+  },
+  "church": {
+   "haunted": [
+    1,
+    1,
+    2,
+    0,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   "listed": [
+    163,
+    304,
+    363,
+    1053,
+    309,
+    878,
+    258,
+    570,
+    177,
+    291,
+    35,
+    24,
+    22,
+    55,
+    70,
+    62,
+    157,
+    343,
+    93,
+    21
+   ]
+  }
+ },
+ "year_hist_all": {
+  "haunted": [
+   3,
+   4,
+   4,
+   1,
+   7,
+   5,
+   3,
+   5,
+   1,
+   8,
+   5,
+   9,
+   1,
+   8,
+   5,
+   5,
+   2,
+   5,
+   4,
+   0
+  ],
+  "listed": [
+   172,
+   341,
+   410,
+   1063,
+   342,
+   910,
+   287,
+   601,
+   216,
+   311,
+   84,
+   64,
+   120,
+   125,
+   246,
+   221,
+   432,
+   629,
+   274,
+   134
+  ]
+ },
+ "year_before_1000": {
+  "haunted": 2,
+  "listed": 99
+ },
+ "regions": {
+  "Scotland": {
+   "haunted": 85,
+   "haunted_buildings": 79,
+   "listed": 6381,
+   "per_1000": 13.32079611346184,
+   "expected": 38.05639832710535,
+   "ratio": 2.2335271790409936,
+   "p_one_sided": 8.140937974999099e-11,
+   "haunted_castles": 56,
+   "wikidata_castles": 1063,
+   "castles_per_100": 5.268109125117592,
+   "haunted_inns": 2,
+   "pubs": 2387,
+   "inns_per_10000_pubs": 8.37871805613741
+  },
+  "North East": {
+   "haunted": 7,
+   "haunted_buildings": 6,
+   "listed": 1134,
+   "per_1000": 6.172839506172839,
+   "expected": 6.7631963176520085,
+   "ratio": 1.035013575124225,
+   "p_one_sided": 1.0,
+   "haunted_castles": 3,
+   "wikidata_castles": 101,
+   "castles_per_100": 2.9702970297029703,
+   "haunted_inns": 1,
+   "pubs": 1733,
+   "inns_per_10000_pubs": 5.770340450086555
+  },
+  "North West": {
+   "haunted": 8,
+   "haunted_buildings": 8,
+   "listed": 2052,
+   "per_1000": 3.898635477582846,
+   "expected": 12.238164765275062,
+   "ratio": 0.6536927842889844,
+   "p_one_sided": 0.2800669132435985,
+   "haunted_castles": 1,
+   "wikidata_castles": 96,
+   "castles_per_100": 1.0416666666666667,
+   "haunted_inns": 2,
+   "pubs": 4375,
+   "inns_per_10000_pubs": 4.571428571428571
+  },
+  "Yorkshire and the Humber": {
+   "haunted": 7,
+   "haunted_buildings": 5,
+   "listed": 2257,
+   "per_1000": 3.1014621178555606,
+   "expected": 13.46078843821921,
+   "ratio": 0.5200289739436736,
+   "p_one_sided": 0.08472615853582764,
+   "haunted_castles": 1,
+   "wikidata_castles": 76,
+   "castles_per_100": 1.3157894736842106,
+   "haunted_inns": 1,
+   "pubs": 4043,
+   "inns_per_10000_pubs": 2.4734108335394507
+  },
+  "East Midlands": {
+   "haunted": 13,
+   "haunted_buildings": 13,
+   "listed": 2903,
+   "per_1000": 4.4781260764726145,
+   "expected": 17.31354401247247,
+   "ratio": 0.7508572474032443,
+   "p_one_sided": 0.3619683523750558,
+   "haunted_castles": 0,
+   "wikidata_castles": 79,
+   "castles_per_100": 0.0,
+   "haunted_inns": 3,
+   "pubs": 3337,
+   "inns_per_10000_pubs": 8.990110878034162
+  },
+  "West Midlands": {
+   "haunted": 8,
+   "haunted_buildings": 5,
+   "listed": 2819,
+   "per_1000": 2.8378857750975524,
+   "expected": 16.81256650746121,
+   "ratio": 0.4758345489042199,
+   "p_one_sided": 0.02801328512123201,
+   "haunted_castles": 3,
+   "wikidata_castles": 203,
+   "castles_per_100": 1.477832512315271,
+   "haunted_inns": 1,
+   "pubs": 3558,
+   "inns_per_10000_pubs": 2.810567734682406
+  },
+  "Eastern": {
+   "haunted": 17,
+   "haunted_buildings": 14,
+   "listed": 5309,
+   "per_1000": 3.2021096251648147,
+   "expected": 31.662971120294984,
+   "ratio": 0.5369047628352074,
+   "p_one_sided": 0.00654358945605816,
+   "haunted_castles": 0,
+   "wikidata_castles": 108,
+   "castles_per_100": 0.0,
+   "haunted_inns": 3,
+   "pubs": 3452,
+   "inns_per_10000_pubs": 8.690614136732329
+  },
+  "London": {
+   "haunted": 18,
+   "haunted_buildings": 15,
+   "listed": 2047,
+   "per_1000": 8.793356130923302,
+   "expected": 12.208344675691059,
+   "ratio": 1.474401360558007,
+   "p_one_sided": 0.14260132923249977,
+   "haunted_castles": 1,
+   "wikidata_castles": 5,
+   "castles_per_100": 20.0,
+   "haunted_inns": 4,
+   "pubs": 3156,
+   "inns_per_10000_pubs": 12.67427122940431
+  },
+  "South East": {
+   "haunted": 40,
+   "haunted_buildings": 26,
+   "listed": 5716,
+   "per_1000": 6.997900629811057,
+   "expected": 34.09032641243287,
+   "ratio": 1.1733533881744191,
+   "p_one_sided": 0.3516319705131644,
+   "haunted_castles": 1,
+   "wikidata_castles": 137,
+   "castles_per_100": 0.7299270072992701,
+   "haunted_inns": 11,
+   "pubs": 5372,
+   "inns_per_10000_pubs": 20.476545048399107
+  },
+  "South West": {
+   "haunted": 28,
+   "haunted_buildings": 18,
+   "listed": 7245,
+   "per_1000": 3.864734299516908,
+   "expected": 43.20930980722116,
+   "ratio": 0.6480084992082106,
+   "p_one_sided": 0.018281770312994074,
+   "haunted_castles": 1,
+   "wikidata_castles": 143,
+   "castles_per_100": 0.6993006993006993,
+   "haunted_inns": 9,
+   "pubs": 4150,
+   "inns_per_10000_pubs": 21.686746987951807
+  },
+  "Wales": {
+   "haunted": 10,
+   "haunted_buildings": 10,
+   "listed": 2546,
+   "per_1000": 3.927729772191673,
+   "expected": 15.184389616174615,
+   "ratio": 0.6585710886493499,
+   "p_one_sided": 0.21954627077629066,
+   "haunted_castles": 0,
+   "wikidata_castles": 826,
+   "castles_per_100": 0.0,
+   "haunted_inns": 3,
+   "pubs": 2419,
+   "inns_per_10000_pubs": 12.401818933443572
+  }
+ },
+ "gb_per_1000": 5.964017916800713,
+ "n_haunted_gb": 241,
+ "countries": {
+  "England": {
+   "haunted": 146,
+   "listed": 31482,
+   "per_1000": 4.637570675306525
+  },
+  "Scotland": {
+   "haunted": 85,
+   "listed": 6381,
+   "per_1000": 13.32079611346184
+  },
+  "Wales": {
+   "haunted": 10,
+   "listed": 2546,
+   "per_1000": 3.927729772191673
+  }
+ },
+ "scot_vs_eng_ratio": 2.8723650907123672,
+ "castles_by_country": {
+  "Scotland": {
+   "haunted": 56,
+   "wikidata": 1063,
+   "per_100": 5.268109125117592
+  },
+  "England": {
+   "haunted": 11,
+   "wikidata": 948,
+   "per_100": 1.160337552742616
+  },
+  "Wales": {
+   "haunted": 0,
+   "wikidata": 826,
+   "per_100": 0.0
+  }
+ },
+ "castle_share_scotland": 0.7088607594936709,
+ "castle_share_england": 0.1,
+ "cities": {
+  "Edinburgh": {
+   "haunted": 16,
+   "listed": 2446,
+   "per_1000": 6.541291905151267,
+   "expected": 14.587987824494544,
+   "ratio": 1.0967927991504463
+  },
+  "York": {
+   "haunted": 2,
+   "listed": 256,
+   "per_1000": 7.8125,
+   "expected": 1.5267885867009825,
+   "ratio": 1.3099390560165975
+  },
+  "Oxford": {
+   "haunted": 5,
+   "listed": 284,
+   "per_1000": 17.6056338028169,
+   "expected": 1.6937810883714024,
+   "ratio": 2.9519753375021915
+  },
+  "City of Southampton": {
+   "haunted": 4,
+   "listed": 35,
+   "per_1000": 114.28571428571429,
+   "expected": 0.20874062708802493,
+   "ratio": 19.162537048014226
+  },
+  "London": {
+   "haunted": 18,
+   "listed": 2047,
+   "per_1000": 8.793356130923302,
+   "expected": 12.208344675691059,
+   "ratio": 1.474401360558007
+  }
+ },
+ "edinburgh_share_of_scotland": 0.18823529411764706,
+ "york_places": [
+  "Golden Fleece, York",
+  "Treasurer's House, York"
+ ],
+ "oxford_places": [
+  "Dead Man's Walk, Oxford",
+  "Ducker & Son",
+  "Eastgate Hotel",
+  "New College Lane",
+  "The Old Bank Hotel"
+ ],
+ "southampton_places": [
+  "Dolphin Hotel, Southampton",
+  "Northam Bridge",
+  "Old Farmhouse, Southampton",
+  "Red Lion Inn, Southampton"
+ ],
+ "ireland": {
+  "republic": 17,
+  "northern": 2
+ },
+ "cast_n_texts": 237,
+ "cast_labels": {
+  "grey_lady": "Grey Lady",
+  "white_lady": "White Lady",
+  "green_lady": "Green Lady",
+  "other_lady": "Brown, black, blue or red lady",
+  "monk": "Monk, friar or abbot",
+  "nun": "Nun",
+  "headless": "Headless or beheaded",
+  "drummer": "Drummer or piper",
+  "dog": "Dog or hound",
+  "soldier": "Soldier, knight or airman",
+  "child": "Child",
+  "poltergeist": "Poltergeist",
+  "coach": "Phantom coach or horseman",
+  "royal": "King, queen or famous figure"
+ },
+ "cast": {
+  "grey_lady": 8,
+  "white_lady": 13,
+  "green_lady": 7,
+  "other_lady": 8,
+  "monk": 12,
+  "nun": 9,
+  "headless": 6,
+  "drummer": 2,
+  "dog": 7,
+  "soldier": 8,
+  "child": 15,
+  "poltergeist": 7,
+  "coach": 3,
+  "royal": 7
+ },
+ "cast_share": {
+  "grey_lady": 0.03375527426160337,
+  "white_lady": 0.05485232067510549,
+  "green_lady": 0.029535864978902954,
+  "other_lady": 0.03375527426160337,
+  "monk": 0.05063291139240506,
+  "nun": 0.0379746835443038,
+  "headless": 0.02531645569620253,
+  "drummer": 0.008438818565400843,
+  "dog": 0.029535864978902954,
+  "soldier": 0.03375527426160337,
+  "child": 0.06329113924050633,
+  "poltergeist": 0.029535864978902954,
+  "coach": 0.012658227848101266,
+  "royal": 0.029535864978902954
+ },
+ "coloured_lady_any": 33,
+ "n_any_named_type": 78,
+ "n_false_hits_removed": 33,
+ "cast_by_kind": {
+  "castle": {
+   "label": "Castles",
+   "n": 67,
+   "grey_lady": 3,
+   "white_lady": 7,
+   "green_lady": 6,
+   "other_lady": 3,
+   "monk": 2,
+   "nun": 0,
+   "headless": 2,
+   "drummer": 2,
+   "dog": 3,
+   "soldier": 4,
+   "child": 5,
+   "poltergeist": 0,
+   "coach": 0,
+   "royal": 3
+  },
+  "house": {
+   "label": "Houses and palaces",
+   "n": 58,
+   "grey_lady": 5,
+   "white_lady": 5,
+   "green_lady": 1,
+   "other_lady": 2,
+   "monk": 1,
+   "nun": 6,
+   "headless": 1,
+   "drummer": 0,
+   "dog": 2,
+   "soldier": 2,
+   "child": 5,
+   "poltergeist": 5,
+   "coach": 1,
+   "royal": 3
+  },
+  "inn": {
+   "label": "Inns and hotels",
+   "n": 38,
+   "grey_lady": 0,
+   "white_lady": 0,
+   "green_lady": 0,
+   "other_lady": 0,
+   "monk": 1,
+   "nun": 0,
+   "headless": 0,
+   "drummer": 0,
+   "dog": 0,
+   "soldier": 0,
+   "child": 1,
+   "poltergeist": 1,
+   "coach": 0,
+   "royal": 1
+  },
+  "church": {
+   "label": "Churches and abbeys",
+   "n": 9,
+   "grey_lady": 0,
+   "white_lady": 1,
+   "green_lady": 0,
+   "other_lady": 0,
+   "monk": 5,
+   "nun": 2,
+   "headless": 2,
+   "drummer": 0,
+   "dog": 0,
+   "soldier": 0,
+   "child": 1,
+   "poltergeist": 0,
+   "coach": 0,
+   "royal": 0
+  },
+  "other": {
+   "label": "Theatres, gaols, RAF and other buildings",
+   "n": 26,
+   "grey_lady": 0,
+   "white_lady": 0,
+   "green_lady": 0,
+   "other_lady": 1,
+   "monk": 0,
+   "nun": 0,
+   "headless": 0,
+   "drummer": 0,
+   "dog": 0,
+   "soldier": 1,
+   "child": 0,
+   "poltergeist": 0,
+   "coach": 0,
+   "royal": 0
+  },
+  "outside": {
+   "label": "Roads, woods, hills and villages",
+   "n": 39,
+   "grey_lady": 0,
+   "white_lady": 0,
+   "green_lady": 0,
+   "other_lady": 2,
+   "monk": 3,
+   "nun": 1,
+   "headless": 1,
+   "drummer": 0,
+   "dog": 2,
+   "soldier": 1,
+   "child": 3,
+   "poltergeist": 1,
+   "coach": 2,
+   "royal": 0
+  }
+ },
+ "cast_by_country": {
+  "England": {
+   "n": 135,
+   "grey_lady": 3,
+   "white_lady": 6,
+   "green_lady": 1,
+   "other_lady": 5,
+   "monk": 10,
+   "nun": 7,
+   "headless": 6,
+   "drummer": 0,
+   "dog": 3,
+   "soldier": 4,
+   "child": 9,
+   "poltergeist": 6,
+   "coach": 3,
+   "royal": 4
+  },
+  "Scotland": {
+   "n": 74,
+   "grey_lady": 4,
+   "white_lady": 5,
+   "green_lady": 6,
+   "other_lady": 1,
+   "monk": 1,
+   "nun": 1,
+   "headless": 0,
+   "drummer": 2,
+   "dog": 4,
+   "soldier": 2,
+   "child": 2,
+   "poltergeist": 0,
+   "coach": 0,
+   "royal": 3
+  },
+  "Wales": {
+   "n": 10,
+   "grey_lady": 1,
+   "white_lady": 0,
+   "green_lady": 0,
+   "other_lady": 0,
+   "monk": 0,
+   "nun": 0,
+   "headless": 0,
+   "drummer": 0,
+   "dog": 0,
+   "soldier": 0,
+   "child": 1,
+   "poltergeist": 0,
+   "coach": 0,
+   "royal": 0
+  },
+  "Ireland": {
+   "n": 16,
+   "grey_lady": 0,
+   "white_lady": 2,
+   "green_lady": 0,
+   "other_lady": 2,
+   "monk": 1,
+   "nun": 1,
+   "headless": 0,
+   "drummer": 0,
+   "dog": 0,
+   "soldier": 2,
+   "child": 3,
+   "poltergeist": 1,
+   "coach": 0,
+   "royal": 0
+  }
+ },
+ "monk_nun": {
+  "at_church": 5,
+  "n_church": 9,
+  "elsewhere": 14,
+  "n_elsewhere": 228,
+  "share_church": 0.5555555555555556,
+  "share_elsewhere": 0.06140350877192982,
+  "p": 0.00019944796528692605,
+  "places_elsewhere": [
+   "Stocksbridge bypass",
+   "Abbey House, Cambridge",
+   "Borley Rectory",
+   "The Brocket Arms",
+   "Littleport",
+   "Bramshill House",
+   "Burford Priory",
+   "Pluckley",
+   "Preston Manor, Brighton",
+   "Wymering Manor",
+   "Ballechin House",
+   "Ethie Castle",
+   "Montpelier Hill",
+   "Kinnitty Castle"
+  ]
+ },
+ "soldier_military": {
+  "at_military": 1,
+  "n_military": 8,
+  "elsewhere": 7
+ },
+ "green_lady_places": [
+  [
+   "Ardblair Castle",
+   "Scotland"
+  ],
+  [
+   "Balgonie Castle",
+   "Scotland"
+  ],
+  [
+   "Fyvie Castle",
+   "Scotland"
+  ],
+  [
+   "Knock Castle (Isle of Skye)",
+   "Scotland"
+  ],
+  [
+   "Stirling Castle",
+   "Scotland"
+  ],
+  [
+   "Tulloch Castle",
+   "Scotland"
+  ],
+  [
+   "All Cannings",
+   "England"
+  ]
+ ],
+ "grey_lady_places": [
+  [
+   "Abbey House, Cambridge",
+   "England"
+  ],
+  [
+   "Rufford Old Hall",
+   "England"
+  ],
+  [
+   "Bramshill House",
+   "England"
+  ],
+  [
+   "Ethie Castle",
+   "Scotland"
+  ],
+  [
+   "Fyvie Castle",
+   "Scotland"
+  ],
+  [
+   "Macduff's Castle",
+   "Scotland"
+  ],
+  [
+   "Saltoun Hall",
+   "Scotland"
+  ],
+  [
+   "Plas Teg",
+   "Wales"
+  ]
+ ],
+ "white_lady_places": [
+  [
+   "Furness Abbey",
+   "England"
+  ],
+  [
+   "Ordsall Hall",
+   "England"
+  ],
+  [
+   "Bramshill House",
+   "England"
+  ],
+  [
+   "Preston Manor, Brighton",
+   "England"
+  ],
+  [
+   "Rochester Castle",
+   "England"
+  ],
+  [
+   "Berry Pomeroy Castle",
+   "England"
+  ],
+  [
+   "Brims Castle",
+   "Scotland"
+  ],
+  [
+   "Glamis Castle",
+   "Scotland"
+  ],
+  [
+   "Kinneil House",
+   "Scotland"
+  ],
+  [
+   "Meldrum House",
+   "Scotland"
+  ],
+  [
+   "Lennox Tower",
+   "Scotland"
+  ],
+  [
+   "Charles Fort",
+   "Ireland"
+  ],
+  [
+   "Malahide Castle",
+   "Ireland"
+  ]
+ ],
+ "drummer_places": [
+  "Cortachy Castle",
+  "Culzean Castle"
+ ],
+ "dog_places": [
+  "Abbey House, Cambridge",
+  "Littleport",
+  "Airth Castle",
+  "Balgonie Castle",
+  "Ballechin House",
+  "Barnbougle Castle",
+  "Dead Maids crossroads, Chapmanslade"
+ ],
+ "headless_places": [
+  "Borley Church",
+  "Borley Rectory",
+  "Tower of London",
+  "Hylton Castle",
+  "Furness Abbey",
+  "Aldbourne"
+ ],
+ "coach_places": [
+  "Borley Rectory",
+  "Knighton, Isle of Wight",
+  "New College Lane"
+ ],
+ "green_scot_castle": 6,
+ "headless_england": 6,
+ "monknun_england": 15,
+ "monknun_scotland": 2,
+ "monknun_total": 19,
+ "poltergeist_house": 5,
+ "lady_castle": 17,
+ "lady_inn": 0,
+ "n_inn_texts": 38,
+ "n_castle_texts": 67,
+ "scotland_share_haunted_gb": 0.35269709543568467,
+ "scotland_share_listed": 0.1579103665025118,
+ "n_gb_buildings_church": 8
+}
